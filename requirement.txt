@@ -1,0 +1,10 @@
+requests
+webbrowser
+pyautogui 
+psutil
+smtplib
+os
+ssl
+EmailMessage
+ctypes
+pyttsx3
