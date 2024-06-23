@@ -1,10 +1,11 @@
 requests
 webbrowser
-pyautogui 
+pyautogui
 psutil
 smtplib
+email
+opencv-python
+datetime
 os
 ssl
-EmailMessage
-ctypes
 pyttsx3
